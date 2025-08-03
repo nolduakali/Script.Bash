@@ -22,4 +22,4 @@
 YT_URL="https://www.youtube.com/watch?v=id-uniknyaa"
 
 # Ambil URL audio terbaik dan tampilkan
-yt-dlp -f bestaudio -g "$YT_URL"
+yt-dlp -g "$YT_URL"
