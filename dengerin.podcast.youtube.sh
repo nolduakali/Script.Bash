@@ -21,5 +21,13 @@
 # Masukkan URL YouTube
 YT_URL="https://www.youtube.com/watch?v=id-uniknyaa"
 
-# Ambil URL audio terbaik dan tampilkan
+# Ambil URL audio dan vidiodan tampilkan
 yt-dlp -g "$YT_URL"
+
+
+#untuk url audio yang urutan paling bawah alias kedua
+#dan waktu expired url sekitar lamanya podcast atau kurang lebih 2 jam an
+#karena ada kemanan dari google
+
+
+#dan untuk kelebihannya bisa berjalan dilatar belakang dan tanpa iklan
